@@ -8,7 +8,7 @@ This robot can detect a black line on the floor using sensors and automatically 
 
 This submission includes two models: a simulation model and a hardware implementation model. It contains a set of .slx and .ioc files for hardware deployment, as well as an .stl file for rendering a CAD model in the simulation environment. The models are designed for student teams participating in the Micromouse competition. Teams can use this app as a reference to learn about model-based design (MBD).
 
-![LineTracer Pic png](https://gitlab.com/NobuIijima/LineTracer2/-/raw/main/ImageForGit/Pic.png)
+![LineTracer Pic png](https://github.com/mathworks/Line-Trace-for-Micromouse/blob/main/ImageForGit/Pic.png)
 
 ## Simulation Model
 
