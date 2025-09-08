@@ -44,7 +44,7 @@ Before clicking the button, go to
 Configuration Parameters → Code Generation → Build Configuration,
 and set it to "Faster Build".
 
-![LineTracer Hardware GIF](https://gitlab.com/NobuIijima/LineTracer2/-/raw/main/ImageForGit/Hardware_Git.gif)
+![LineTracer Hardware GIF](https://github.com/mathworks/Line-Trace-for-Micromouse/blob/main/ImageForGit/Hardware_Git.gif)
 
 ## Call to Actions
 By modifying and extending each subsystem, more advanced simulations can be achieved. This model is designed as a versatile and lightweight demo, and with appropriate adaptations, it can be applied to a wide range of fields such as automotive, rockets, robotics, drones, aircraft, railways, and marine systems.
