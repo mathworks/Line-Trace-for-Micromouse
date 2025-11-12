@@ -66,4 +66,6 @@ For Hardware & Support Package
 	Simulink Coder
 	Embedded Coder Support Package for STMicroelectronics STM32 Processors
 
+**The hardware information is described in the documentation available at the download site
+
 Copyright 2025 The MathWorks, Inc.
